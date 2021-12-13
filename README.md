@@ -12,9 +12,7 @@ It is a simulator of stop & wait protocol.
 * Stop and Wait for ARQ mainly implements the Sliding Window Protocol concept with Window Size 1
 
 #### Output
-
-
-
+![](Q1.png)
 
 ## Q2 Selective Repeat Protocol
 It is a simulator of selective repeat protocol.
@@ -28,3 +26,4 @@ It is a simulator of selective repeat protocol.
 * The sender will send/retransmit a packet for which NACK is received.
 
 #### Output
+![](Q2.png)
